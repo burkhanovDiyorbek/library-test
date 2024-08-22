@@ -12,7 +12,7 @@ const BookUser = ({ book, setBooksData }) => {
   return (
     <div className="book" key={book?.id}>
       <div className="book-cover_img">
-        <img src={`/public/${book?.cover_img}`} />
+        <img src={`/${book?.cover_img}`} />
       </div>
       <h2>
         {book?.title?.length > 200 ? book?.title?.slice(0, 200) : book?.title}

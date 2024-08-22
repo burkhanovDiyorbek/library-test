@@ -34,7 +34,7 @@ const Order = () => {
           return (
             <div className="column" key={item?.id}>
               <div>
-                <img src={"/public/" + item?.cover_img} />
+                <img src={"/" + item?.cover_img} />
                 <h2>
                   {item?.title?.length > 70
                     ? item?.title?.slice(0, 70) + "..."

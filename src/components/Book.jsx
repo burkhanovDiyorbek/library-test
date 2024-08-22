@@ -53,7 +53,7 @@ const Book = ({ book, setBooksData }) => {
       )}
 
       <div className="book-cover_img">
-        <img src={`/public/${book?.cover_img}`} />
+        <img src={`/${book?.cover_img}`} />
       </div>
       <span className={book?.isPublished ? "published" : "draft"}>
         {book?.isPublished ? "Published" : "Draft"}
