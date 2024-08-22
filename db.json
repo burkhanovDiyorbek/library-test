@@ -1,0 +1,198 @@
+{
+  "notifications": [
+    {
+      "id": "b807",
+      "title": "Jadidchilik harakati",
+      "price": "6907",
+      "count": 1
+    },
+    {
+      "id": "c5f6",
+      "title": "Jadidchilik harakati",
+      "price": 690,
+      "count": 1
+    },
+    {
+      "id": "f70d",
+      "title": "Jadidchilik harakati",
+      "price": 690,
+      "count": 1
+    }
+  ],
+  "books": [
+    {
+      "id": "0",
+      "title": "Jadidchilik frakati",
+      "cover_img": "1.jpg",
+      "price": "69083",
+      "sales": 60,
+      "isPublished": false
+    },
+    {
+      "id": "1",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": "6907",
+      "sales": 69,
+      "isPublished": true
+    },
+    {
+      "id": "2",
+      "title": "Jadidchilik",
+      "cover_img": "1.jpg",
+      "price": "780",
+      "sales": 57,
+      "isPublished": false
+    },
+    {
+      "id": "3",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 59,
+      "isPublished": true
+    },
+    {
+      "id": "4",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 59,
+      "isPublished": true
+    },
+    {
+      "id": "5",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 58,
+      "isPublished": true
+    },
+    {
+      "id": "6",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 57,
+      "isPublished": false
+    },
+    {
+      "id": "7",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 57,
+      "isPublished": true
+    },
+    {
+      "id": "8",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 57,
+      "isPublished": false
+    },
+    {
+      "id": "9",
+      "title": "Jadidchilik harakati",
+      "cover_img": "1.jpg",
+      "price": 690,
+      "sales": 59,
+      "isPublished": true
+    },
+    {
+      "id": "e1cc",
+      "title": "hello world",
+      "price": "450",
+      "isPublished": true,
+      "sales": 21,
+      "cover_img": "1.jpg"
+    },
+    {
+      "id": "b7e8",
+      "title": "Nimadur",
+      "price": "45",
+      "isPublished": true,
+      "sales": 5,
+      "cover_img": "1.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "title": "Jadidchilik harakati",
+      "price": "6907",
+      "count": 1,
+      "isPaid": true,
+      "cover_img": "1.jpg",
+      "sales": 65,
+      "isPublished": true
+    },
+    {
+      "id": "1",
+      "title": "Jadidchilik harakati",
+      "price": "6907",
+      "count": 1,
+      "isPaid": true,
+      "published_date": "7-4 15:44",
+      "cover_img": "1.jpg",
+      "sales": 66,
+      "isPublished": true
+    },
+    {
+      "id": "b7e8",
+      "title": "Nimadur",
+      "price": "45",
+      "count": 1,
+      "isPaid": true,
+      "purchashed_date": "7-4 15:44",
+      "isPublished": true,
+      "sales": 4,
+      "cover_img": "1.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Jadidchilik harakati",
+      "price": "6907",
+      "count": 1,
+      "isPaid": true,
+      "purchashed_date": "7-4 15:47",
+      "cover_img": "1.jpg",
+      "sales": 67,
+      "isPublished": true
+    },
+    {
+      "id": "1",
+      "title": "Jadidchilik harakati",
+      "price": "6907",
+      "count": 1,
+      "isPaid": true,
+      "purchased_date": "7-4 15:48",
+      "cover_img": "1.jpg",
+      "sales": 68,
+      "isPublished": true
+    },
+    {
+      "id": "3",
+      "title": "Jadidchilik harakati",
+      "price": 690,
+      "count": 1,
+      "isPaid": true,
+      "purchased_date": "7-4 16:3",
+      "cover_img": "1.jpg",
+      "sales": 58,
+      "isPublished": true
+    },
+    {
+      "id": "4",
+      "title": "Jadidchilik harakati",
+      "price": 690,
+      "count": 1,
+      "isPaid": true,
+      "purchased_date": "7-4 16:3",
+      "cover_img": "1.jpg",
+      "sales": 58,
+      "isPublished": true
+    }
+  ]
+}
